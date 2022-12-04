@@ -258,3 +258,35 @@ span {
     margin: auto;
     padding-top: 20px;
 }
+
+.event-schedule {
+    padding: 90px 0px;
+}
+
+.event-schedule>h1 {
+    text-align: center;
+}
+
+.dates {
+    text-align: center;
+}
+
+.date {
+    background: #f7f7f7;
+    margin: 0 auto 40px;
+    text-align: center;
+    width: fit-content;
+    display: inline-block;
+    padding: 10px 30px;
+}
+
+.event-schedule h2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.event-schedule p {
+    color: #8a8a8a;
+    font-size: 16px;
+    font-weight: 400;
+}
