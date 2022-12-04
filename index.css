@@ -239,3 +239,22 @@ span {
 .left-text>button:hover {
     background: #252525;
 }
+
+.second-banner {
+    margin-top: 600px;
+    background: url(./images/img08.jpg);
+    background-repeat: no-repeat;
+}
+
+.counter {
+    display: inline-block;
+    padding: 20px 20px 25px;
+    margin: 50px;
+    color: white;
+}
+
+.counters {
+    width: fit-content;
+    margin: auto;
+    padding-top: 20px;
+}
