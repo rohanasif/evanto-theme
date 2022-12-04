@@ -185,3 +185,57 @@ hr {
     line-height: 30px;
     font-weight: 100;
 }
+
+.left-text {
+    padding-left: 40px;
+    float: left;
+    width: 45%;
+}
+
+.right-img {
+    padding-left: 40px;
+    float: left;
+    margin-left: 50%;
+    margin-top: -400px;
+}
+
+.left-text>h1 {
+    color: #202020;
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+span {
+    color: #ea531c;
+}
+
+.left-text>h3 {
+    color: #f28a03;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.left-text>p {
+    padding: 15px 0px;
+    font-size: 16px;
+    color: #8a8a8a;
+    line-height: 26px;
+    font-weight: 300;
+}
+
+.left-text>button {
+    margin-top: 30px;
+    padding: 15px 35px;
+    background: #f28a03;
+    border: none;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 4px;
+}
+
+.left-text>button:hover {
+    background: #252525;
+}
