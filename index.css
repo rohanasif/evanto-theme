@@ -624,3 +624,65 @@ hr {
 .price>ul {
     list-style: none;
 }
+
+.news>h1 {
+    text-align: center;
+    color: #202020;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    margin: 6px 0px;
+}
+
+.news>h1>span {
+    color: #ea531c;
+}
+
+.content {
+    padding: 80px 50px;
+}
+
+.left-img {
+    float: left;
+    width: 40%;
+}
+
+.right-text-2 {
+    margin-left: 140px;
+    float: left;
+    width: 45%;
+}
+
+.right-text-2>span {
+    line-height: 24px;
+    margin-right: 20px;
+    color: #8a8a8a;
+}
+
+.right-text-2>span:hover {
+    color: #C3521C;
+}
+
+.right-text-2>h1 {
+    color: #202020;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.right-text-2>h1:hover {
+    color: #C3521C;
+}
+
+.right-text-2>h4 {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.map {
+    background-image: url(./images/img34.png);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    margin-top: 300px;
+}
