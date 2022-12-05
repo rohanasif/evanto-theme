@@ -429,7 +429,81 @@ hr {
     border-radius: 4px;
 }
 
-.right-event>button:hover{
+.right-event>button:hover {
     background-color: #202020;
 }
 
+.schedules>button {
+    margin-top: 30px;
+    padding: 15px 35px;
+    background: #f28a03;
+    border: none;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 4px;
+    margin-left: 500px;
+}
+
+.speakers {
+    background-image: url(./images/img13.jpg);
+    background-attachment: fixed;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 100px;
+    padding-top: 88px;
+    margin-top: 600px;
+}
+
+.speakers {
+    text-align: center;
+}
+
+.speakers>h1 {
+    font-size: 72px;
+    line-height: 62px;
+    font-weight: 700;
+    color: #8a8a8a;
+}
+
+.speakers>h3,
+.speakers>h3>span {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+}
+
+.speakers>h3 {
+    color: white;
+    margin-top: -50px;
+}
+
+.speakers>h3>span {
+    color: #ea531c;
+}
+
+.speakers-div {
+    margin-top: 50px;
+}
+
+.speakers-div h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #ea531c;
+    margin: 0 0 5px;
+}
+
+.speakers-div p {
+    font-size: 16px;
+    color: #8a8a8a;
+    line-height: 26px;
+    font-weight: 300;
+}
+
+.speaker {
+    background-color: white;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
